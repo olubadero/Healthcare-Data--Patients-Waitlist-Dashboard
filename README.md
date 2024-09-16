@@ -59,6 +59,6 @@ This is a publicly available healthcare data about patient waiting list. It cont
 **Creating a dynamic chart title that changes when a certain value is selected in the dashboard**:
 -	SWITCH(VALUES('Calculation Method'[Calc Method]), "AVERAGE", "Key Indicators - Patient Wait List (Average)", "Median",  "Key Indicators - Patient Wait List (Median)")
 
-View [insights]()
+View [insights](https://github.com/olubadero/Healthcare-Data--Patients-Waitlist-Dashboard/blob/main/Insights.md)
 
 
